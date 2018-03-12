@@ -1,8 +1,8 @@
 # hello-world
 As I want to work with GitHub now, I have to do first steps. Therefore I want to learn:
-* branches (/)
+* branches [x]
 * forking
-* pull requests (/)
+* pull requests [x]
 * merging (/)
 
 First mission accomplished, but more questions arise:
