@@ -1,6 +1,6 @@
 # hello-world
 As I want to work with GitHub now, I have to do first steps. Therefore I want to learn:
-* branches :white_check_mark:
+* branches :green_check_mark:
 * forking
 * pull requests :white_check_mark:
 * merging :white_check_mark:
